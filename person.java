@@ -1,4 +1,4 @@
-public void main(String[] args){
+.public void main(String[] args){
      private int pid;
      private String name;
      private String sex;
