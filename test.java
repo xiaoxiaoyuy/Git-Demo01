@@ -4,5 +4,5 @@ public void Test(){
 	private String type;
 	int age;
 	public void main(String[] args){
-	      system.out.println(username,password,age);
+	      system.out.println(username,age);
 	}
